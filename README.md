@@ -1,4 +1,12 @@
 #Ziele-Lernatelier-Max-Mijatovic
+Tag 2
+1. Modul 319-6907
+2. Modul 319-6908
+3. Wenn es reicht Modul 319-6909
+
+
+
+Tag 1.
 1. 1704, 1705, 1706, 1707
 2. C# besser kennenlernen und einige weitere Aufgaben im Modul 319 machen
 
