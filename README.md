@@ -4,6 +4,9 @@ Tag 2
 2. Modul 319-6908
 3. Wenn es reicht Modul 319-6909
 
+#Reflexion
+Ich habe das Modul 6907,6908 gemacht. 6909 kommt erst später was ich nicht wusste deswegen habe ich noch angefangen bei 6910.
+Alles in allem bin ich mit heute sehr zufrieden, da ich vieles gelernt habe und jetzt auch ohne problem selbst auf Ideen komme wie ich einen Code schreiben soll. 
 
 
 Tag 1.
