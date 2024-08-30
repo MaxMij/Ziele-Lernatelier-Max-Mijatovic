@@ -2,6 +2,8 @@
 Tag 3
 1. Im Modul 319 weiterarbeiten und verbessern, ohne Hilfe von anderen eine Aufgabe zu lösen.
 
+#Reflexion
+Ich konnte mithilfe von Fynn und Tim das Modul 319-6912 abschliessen und verstehen. Ich verstehe jetzt wie Arrays und schlaufen funktionieren.
 
 Tag 2
 1. Modul 319-6907
