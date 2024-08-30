@@ -1,4 +1,8 @@
 #Ziele-Lernatelier-Max-Mijatovic
+Tag 3
+1. Im Modul 319 weiterarbeiten und verbessern, ohne Hilfe von anderen eine Aufgabe zu lösen.
+
+
 Tag 2
 1. Modul 319-6907
 2. Modul 319-6908
