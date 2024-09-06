@@ -3,6 +3,8 @@ Tag 4
 Ich möchte heute die Aufgabe 6914 im Modul 319 erledigen und wenn möglich bei der Cäsar verschlüsselung bei Fynn und Tim helfen
 
 #Reflexion
+Ich konnt den Auftrag 6914 erledigen und Fynn bei dem Cäsar Projekt über die Schulter schauen jedoch noch nicht helfen
+
 
 Tag 3
 1. Im Modul 319 weiterarbeiten und verbessern, ohne Hilfe von anderen eine Aufgabe zu lösen.
