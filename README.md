@@ -1,4 +1,9 @@
 #Ziele-Lernatelier-Max-Mijatovic
+Tag 4
+Ich möchte heute die Aufgabe 6914 im Modul 319 erledigen und wenn möglich bei der Cäsar verschlüsselung bei Fynn und Tim helfen
+
+#Reflexion
+
 Tag 3
 1. Im Modul 319 weiterarbeiten und verbessern, ohne Hilfe von anderen eine Aufgabe zu lösen.
 
