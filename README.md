@@ -3,6 +3,8 @@
 # Tag 5
 Heute möchte ich die 10 Punkte Aufgabe 1721 im Modul 431 gemeinsam mit Lionel machen und noch das 2D Array system kennenlernen 
 
+# Reflexion
+Ich konnte die Aufgabe 1721 gut beenden wurde jedoch ziemlich unruhig gegen Ende, weil es Freitag Nachmittag ist.
 
 # Tag 4
 Ich möchte heute die Aufgabe 6914 im Modul 319 erledigen und wenn möglich bei der Cäsar verschlüsselung bei Fynn und Tim helfen
