@@ -2,6 +2,9 @@
 # Tag 6
 Ich möchte heute einen der vorgeschlagenen Programmierprojekte machen und möglicherweise noch den Auftrag 1725.
 
+# Reflexion
+Ich konnte ohne grosse schwierigkeiten den Zusatzauftrag mit dem umwandeln von Celsius zu Fahrenheit machen und den Auftrag 1721 verbessern
+
 # Tag 5
 Heute möchte ich die 10 Punkte Aufgabe 1721 im Modul 431 gemeinsam mit Lionel machen und noch das 2D Array system kennenlernen 
 
