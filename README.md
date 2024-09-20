@@ -1,4 +1,6 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 6
+Ich möchte heute einen der vorgeschlagenen Programmierprojekte machen und möglicherweise noch den Auftrag 1725.
 
 # Tag 5
 Heute möchte ich die 10 Punkte Aufgabe 1721 im Modul 431 gemeinsam mit Lionel machen und noch das 2D Array system kennenlernen 
