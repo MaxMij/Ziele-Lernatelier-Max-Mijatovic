@@ -2,6 +2,9 @@
 # Tag 7
 Heute werde ich sicher die Verschlüsselung vom Modul 319 machen, da ich diese nicht ganz fertig machen konnte am Dienstag. Danach gehe ich nocheinmal durch die verschiedenen Dateien durch um für die Modulprüfung zu lernen.
 
+# Reflexion
+Ich konnte zwar den Auftrag für die Verschlüsselung beenden jedoch brauchte ich ziemlich viel hilfe und denke ich würde von selbst nicht darauf kommen. Ich muss es sicher noch einmal anschauen
+
 # Tag 6
 Ich möchte heute einen der vorgeschlagenen Programmierprojekte machen und möglicherweise noch den Auftrag 1725.
 
