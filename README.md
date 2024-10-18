@@ -1,4 +1,7 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 7
+Heute werde ich sicher die Verschlüsselung vom Modul 319 machen, da ich diese nicht ganz fertig machen konnte am Dienstag. Danach gehe ich nocheinmal durch die verschiedenen Dateien durch um für die Modulprüfung zu lernen.
+
 # Tag 6
 Ich möchte heute einen der vorgeschlagenen Programmierprojekte machen und möglicherweise noch den Auftrag 1725.
 
