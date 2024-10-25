@@ -1,6 +1,9 @@
 # Ziele-Lernatelier-Max-Mijatovic
 # Tag 8
-Heute möchte ich noch einmal die Repetitionsaufgabe vom Dienstag machen, da ich nicht ganz drausgekommen bin. Wenn ich dann noch genügend Zeit habe erledige ich noch den einen Auftrag vom Modul 162 der mir noch fehlt
+Heute möchte ich noch einmal die Repetitionsaufgabe vom Dienstag machen, da ich nicht ganz drausgekommen bin. Wenn ich dann noch genügend Zeit habe erledige ich noch den einen Auftrag vom Modul 162 der mir noch fehlt.
+
+# Reflexion
+Ich konnte heute den Auftrag vom Input gut verstehen und lösen. Den Repetitionsauftrag habe ich auch langsam verstanden. Im Modul 162 muss ich vielleicht noch am Wochenende arbeiten.
 
 # Tag 7
 Heute werde ich sicher die Verschlüsselung vom Modul 319 machen, da ich diese nicht ganz fertig machen konnte am Dienstag. Danach gehe ich nocheinmal durch die verschiedenen Dateien durch um für die Modulprüfung zu lernen.
