@@ -2,6 +2,8 @@
 # Tag 9
 Ich möchte heute noch einmal die Aufgaben im Modul 319 repetieren und am Input um 14:00 wie auch um 16:00 teilnehmen.
 
+# Reflexion
+Ich konnte das Modul 319 gut repetieren und die Repetitionsaufgabe erfolgreich lösen.
 # Tag 8
 Heute möchte ich noch einmal die Repetitionsaufgabe vom Dienstag machen, da ich nicht ganz drausgekommen bin. Wenn ich dann noch genügend Zeit habe erledige ich noch den einen Auftrag vom Modul 162 der mir noch fehlt.
 
