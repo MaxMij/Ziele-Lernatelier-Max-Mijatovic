@@ -1,4 +1,4 @@
-### Ziele-Lernatelier-Max-Mijatovic
+# Ziele-Lernatelier-Max-Mijatovic
 # Tag 10
 Heute Nachmittag möchte ich am Programmierprojekt weiterarbeiten. Ich werde die Anforderungsanalyse fertigmachen, das PAP-Design erstellen und mit den gesammelten Informationen von Herr Meier mit Fynn und Tim anfangen zu programmieren.
 
