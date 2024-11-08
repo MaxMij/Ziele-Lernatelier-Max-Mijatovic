@@ -1,6 +1,10 @@
 # Ziele-Lernatelier-Max-Mijatovic
+
 # Tag 10
 Heute Nachmittag möchte ich am Programmierprojekt weiterarbeiten. Ich werde die Anforderungsanalyse fertigmachen, das PAP-Design erstellen und mit den gesammelten Informationen von Herr Meier mit Fynn und Tim anfangen zu programmieren.
+
+## Reflexion
+Ich konnte die Anforderungsanalyse abschliessen und Frau Dillier schicken, bei dem PAP design haben wir realisiert das es noch zu früh ist um dies zu tun da jeder von uns zu erst wissen musste was er machen soll.
 
 # Tag 9
 Ich möchte heute noch einmal die Aufgaben im Modul 319 repetieren und am Input um 14:00 wie auch um 16:00 teilnehmen.
