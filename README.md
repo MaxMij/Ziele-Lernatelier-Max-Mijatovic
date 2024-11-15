@@ -1,5 +1,6 @@
 # Ziele-Lernatelier-Max-Mijatovic
-
+# Tag 11
+Ich werde mich mit Fynn und Tim austauschen und die noch nicht ausgemachten Prozesse besprechen. Danach werde ich mit den neuen Informationen das PAP-Design fertig machen. Wenn ich dann noch genug Zeit habe werde ich noch den noch nicht fertigen Auftrag vom Mittwoch 6953 erledigen
 # Tag 10
 Heute Nachmittag möchte ich am Programmierprojekt weiterarbeiten. Ich werde die Anforderungsanalyse fertigmachen, das PAP-Design erstellen und mit den gesammelten Informationen von Herr Meier mit Fynn und Tim anfangen zu programmieren.
 
