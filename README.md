@@ -1,6 +1,6 @@
 # Ziele-Lernatelier-Max-Mijatovic
 # Tag 12
-Für den heutigen Nachmittag habe ich vor, den Projektplan noch zu bearbeiten, da ich ausversehen eine Woche zu viel eingetragen habe. Danach werde ich noch den Input der auf den Mittwoch zurückgreift besuchen. Sonst arbeite ich mit Tim und Fynn weiterhin am front und oder backend um das Wertschriftenportfolio bald fertigzustellen 
+Für den heutigen Nachmittag habe ich vor, den Projektplan noch zu bearbeiten, da ich ausversehen eine Woche zu viel eingetragen habe. Dann möchte ich noch einen Rechner machen der die Chancen für einen Gewinn im Adventslos ausrechnet.Danach werde ich noch den Input der auf den Mittwoch zurückgreift besuchen. Sonst arbeite ich mit Tim und Fynn weiterhin am front und oder backend um das Wertschriftenportfolio bald fertigzustellen 
 
 
 # Tag 11
