@@ -2,6 +2,8 @@
 # Tag 12
 Für den heutigen Nachmittag habe ich vor, den Projektplan noch zu bearbeiten, da ich ausversehen eine Woche zu viel eingetragen habe. Dann möchte ich noch einen Rechner machen der die Chancen für einen Gewinn im Adventslos ausrechnet.Danach werde ich noch den Input der auf den Mittwoch zurückgreift besuchen. Sonst arbeite ich mit Tim und Fynn weiterhin am front und oder backend um das Wertschriftenportfolio bald fertigzustellen 
 
+## Reflexion
+Heute Nachmittag konnte ich an den Input und lernen, wie man eine API benutzt. Auch erledigen konnte ich den Chancenberechner. Zum Schluss habe ich noch den Projektplan bearbeitet so, dass es jetzt korrekt ist.
 
 # Tag 11
 Ich werde mich mit Fynn und Tim austauschen und die noch nicht ausgemachten Prozesse besprechen. Danach werde ich mit den neuen Informationen das PAP-Design fertig machen. Wenn ich dann noch genug Zeit habe werde ich noch den noch nicht fertigen Auftrag vom Mittwoch 6953 erledigen
