@@ -1,4 +1,8 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 13
+Heute möchte ich zu erst mit Fynn und Tim wenn möglich das Programmieren abschliessen. Wenn dies möglich ist werde ich das Testprotokoll noch fertig ausfüllen. Mit der Anforderungsanalyse und dem Verlauf des Projekts werde ich noch eine Präsentation für den Dienstag erstellen und mit Tim und Fynn besprechen, wer welchen Teil sagt.
+
+
 # Tag 12
 Für den heutigen Nachmittag habe ich vor, den Projektplan noch zu bearbeiten, da ich ausversehen eine Woche zu viel eingetragen habe. Dann möchte ich noch einen Rechner machen der die Chancen für einen Gewinn im Adventslos ausrechnet.Danach werde ich noch den Input der auf den Mittwoch zurückgreift besuchen. Sonst arbeite ich mit Tim und Fynn weiterhin am front und oder backend um das Wertschriftenportfolio bald fertigzustellen 
 
