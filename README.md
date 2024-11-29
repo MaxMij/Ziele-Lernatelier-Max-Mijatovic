@@ -1,6 +1,9 @@
 # Ziele-Lernatelier-Max-Mijatovic
 # Tag 13
-Heute möchte ich zu erst mit Fynn und Tim wenn möglich das Programmieren abschliessen. Wenn dies möglich ist werde ich das Testprotokoll noch fertig ausfüllen. Mit der Anforderungsanalyse und dem Verlauf des Projekts werde ich noch eine Präsentation für den Dienstag erstellen und mit Tim und Fynn besprechen, wer welchen Teil sagt.
+Heute möchte ich zu erst mit Fynn und Tim wenn möglich das Programmieren abschliessen. Wenn dies möglich ist werde ich das Testprotokoll noch fertig ausfüllen. Mit der Anforderungsanalyse und dem Verlauf des Projekts werde ich noch eine Präsentation für den Dienstag erstellen und mit Tim und Fynn besprechen, wer welchen Teil präsentiert.
+
+## Reflexion
+Ich konnte heute Nachmittag das Layout für Testfallspezifikation und Testprotokoll machen. Danach habe ich die Präsentation gemacht, mit Tim und Fynn geteilt und meinen Teil eingefügt und bearbeitet. Ich konnte sehr entspannt arbeiten heute, habe jedoch eine eher grössere Pause dazwischen gemacht.
 
 
 # Tag 12
