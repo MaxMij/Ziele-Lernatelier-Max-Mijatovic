@@ -1,4 +1,8 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 14
+Für den heutigen Nachmittag habe ich sicher vor, im Modul 162, das erweiterte Filtern anzuschauen und den dazugehörigen Auftrag zu erledigen. Danach mache ich bei meinem Portfolio für das Modul 162 weiter. Das Thema für das neue Projekt habe ich mir noch nicht ausgedacht, jedoch weiss ich schon, dass ich zum Beispiel die erweiterung mit dem Diagramm für die Konsolen App gebrauchen werde. Ich werde ein Word Dokument mit dem Thema bis spätestens am Montag auf GitHub einfügen.
+
+
 # Tag 13
 Heute möchte ich zu erst mit Fynn und Tim wenn möglich das Programmieren abschliessen. Wenn dies möglich ist werde ich das Testprotokoll noch fertig ausfüllen. Mit der Anforderungsanalyse und dem Verlauf des Projekts werde ich noch eine Präsentation für den Dienstag erstellen und mit Tim und Fynn besprechen, wer welchen Teil präsentiert.
 
