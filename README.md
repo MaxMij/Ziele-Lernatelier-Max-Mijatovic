@@ -1,4 +1,7 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 15
+Heute Nachmittag habe ich vor, das IPERKA Dokument fertig zu stellen soweit es geht und anfangen mit dem Projekt. Dabei werde ich sicher recherchieren wie man eine Erweiterung für VisualStudio installiert und Daten einer CSV Datei gebraucht. Ich werde diese Sachen dann ausprobieren. Falls ich dann noch Zeit habe, mache ich im Modul 117 welches wir gestartet habe noch einen Auftrag fertig den ich noch erledigen müsste.
+
 # Tag 14
 Für den heutigen Nachmittag habe ich sicher vor, im Modul 162, das erweiterte Filtern anzuschauen und den dazugehörigen Auftrag zu erledigen. Danach mache ich bei meinem Portfolio für das Modul 162 weiter. Das Thema für das neue Projekt habe ich mir noch nicht ausgedacht, jedoch weiss ich schon, dass ich zum Beispiel die erweiterung mit dem Diagramm für die Konsolen App gebrauchen werde. Ich werde ein Word Dokument mit dem Thema bis spätestens am Montag auf GitHub einfügen.
 
