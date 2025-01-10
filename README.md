@@ -1,8 +1,10 @@
 # Ziele-Lernatelier-Max-Mijatovic
 
-
 # Tag 17
 Am heutigen Nachmittag werde ich beginnen mit dem aufarbeiten im Modul 117. Letzte Woche hatte ich ja gefehlt, deswegen werde ich im Modul 117 die Aufträge 1704, 1705, 1706, 1707 und wenn ich noch lust habe 1709 bearbeiten. Danach werde ich an meinem Projekt weiterarbeiten. Letztes mal hatte ich das Problem, dass ich keine Linien im Liniendiagramm machen konnte. Durch das erklären meines Projekts für meine Eltern habe ich gemerkt, wo das Problem liegt. Heute werde ich sicher noch probieren es zum funktionieren zu bringen.
+
+## Reflexion
+Ich konnte heute die Aufträge 1704-1707 machen und das Problem beheben. Dazu habe ich noch herausgefunden wie man eine CSV Datei findet und darauf zugreift
 
 # Tag 16
 Abwesend aufgrund einer Grippe
