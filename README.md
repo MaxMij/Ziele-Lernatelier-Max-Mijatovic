@@ -5,7 +5,7 @@
 Am heutigen Nachmittag werde ich beginnen mit dem aufarbeiten im Modul 117. Letzte Woche hatte ich ja gefehlt, deswegen werde ich im Modul 117 die Aufträge 1704, 1705, 1706, 1707 und wenn ich noch lust habe 1709 bearbeiten. Danach werde ich an meinem Projekt weiterarbeiten. Letztes mal hatte ich das Problem, dass ich keine Linien im Liniendiagramm machen konnte. Durch das erklären meines Projekts für meine Eltern habe ich gemerkt, wo das Problem liegt. Heute werde ich sicher noch probieren es zum funktionieren zu bringen.
 
 # Tag 16
-Abwesend auf grund einer Grippe
+Abwesend aufgrund einer Grippe
 
 # Tag 15
 Heute Nachmittag habe ich vor, das IPERKA Dokument fertig zu stellen soweit es geht und anfangen mit dem Projekt. Dabei werde ich sicher recherchieren wie man eine Erweiterung für VisualStudio installiert und Daten einer CSV Datei gebraucht. Ich werde diese Sachen dann ausprobieren. Falls ich dann noch Zeit habe, mache ich im Modul 117 welches wir gestartet habe noch einen Auftrag fertig den ich noch erledigen müsste.
