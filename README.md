@@ -1,4 +1,7 @@
 # Ziele-Lernatelier-Max-Mijatovic
+# Tag 18
+Heute Nachmittag arbeite ich von zu Hause. Ich werde das logische Datenmodell für das Projekt im Modul 164 fertigstellen. Danach werde ich am Projekt weiterarbeiten und mit den Codezeilen welche ich letztes mal herausfand, auf eine CSV Datei zugreifen. Zum Schluss möchte ich mit den Daten probieren, ein diagramm zu erstellen.
+
 
 # Tag 17
 Am heutigen Nachmittag werde ich beginnen mit dem aufarbeiten im Modul 117. Letzte Woche hatte ich ja gefehlt, deswegen werde ich im Modul 117 die Aufträge 1704, 1705, 1706, 1707 und wenn ich noch lust habe 1709 bearbeiten. Danach werde ich an meinem Projekt weiterarbeiten. Letztes mal hatte ich das Problem, dass ich keine Linien im Liniendiagramm machen konnte. Durch das erklären meines Projekts für meine Eltern habe ich gemerkt, wo das Problem liegt. Heute werde ich sicher noch probieren es zum funktionieren zu bringen.
