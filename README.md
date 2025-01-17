@@ -1,6 +1,6 @@
 # Ziele-Lernatelier-Max-Mijatovic
 # Tag 18
-Heute Nachmittag arbeite ich von zu Hause. Ich werde das logische Datenmodell für das Projekt im Modul 164 fertigstellen. Danach werde ich am Projekt weiterarbeiten und mit den Codezeilen welche ich letztes mal herausfand, auf eine CSV Datei zugreifen. Zum Schluss möchte ich mit den Daten probieren, ein diagramm zu erstellen.
+Heute Nachmittag arbeite ich von zu Hause. Ich werde das logische Datenmodell für das Projekt im Modul 164 fertigstellen. Danach werde ich am Projekt weiterarbeiten und mit den Codezeilen welche ich letztes mal herausfand, auf eine CSV Datei zugreifen. Zum Schluss möchte ich mit den Daten probieren, ein diagramm zu erstellen. Dazu möchte ich die Dokumentation noch nachholen.
 
 
 # Tag 17
