@@ -2,6 +2,9 @@
 # Tag 19
 Für heute Nachmittag habe ich vor, an der LB von Modul 164 fortzufahren und die ersten Tabellen in Sql zu erstellen. Dann möchte ich auch noch wenn möglich mein Lernatelier Projekt fertigstellen. Dort hatte ich das letzte Mal das Problem, dass die backslashes als Error angezeigt wurden. Heute möchte ich mit Frau Rieder den Error und falls ich fertig wurde ein neues Projekt besprechen und beginnen.
 
+## Reflexion
+Ich konnte heute erfolgreich an meiner LB Note im Modul 164 weiterarbeiten und mein Projekt im Lernatelier abschliessen. Die Error Nachricht war aus irgendeinem Grund einfach weg und nachdem ich ein Komma gesetzt habe hatte das Programm auch funktioniert. Danach habe ich mit einem neuen Projekt begonnen. Das Projekt, ist ein Spiel namens Pong in der Konsolenapp. Das Word-Dokument dazu findet man unter "Pong" hier auf github.
+
 
 # Tag 18
 Heute Nachmittag arbeite ich von zu Hause. Ich werde das logische Datenmodell für das Projekt im Modul 164 fertigstellen. Danach werde ich am Projekt weiterarbeiten und mit den Codezeilen welche ich letztes mal herausfand, auf eine CSV Datei zugreifen. Zum Schluss möchte ich mit den Daten probieren, ein diagramm zu erstellen. Dazu möchte ich die Dokumentation noch nachholen.
